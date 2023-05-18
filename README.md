@@ -8,11 +8,11 @@ I'm Yael Lilian Valdez, programming student based in Buenos Aires, Argentina.
 
 😋 Currently learning:
 
-    ● Full-Stack development                                         - Egg Cooperation
+    ● Full-Stack development                                      - Egg Cooperation
     (Java, MySQL, HTML, CSS, Spring, JavaScript, React)          
     
-    ● Java developer                                                 - Universidad Nacional de Jujuy (Argentina Programa)
+    ● Java developer                                              - Universidad Nacional de Jujuy (Argentina Programa)
     (Java, MySQL, Spring)
     
-    ● Back-End specialization                                        - Oracle Next Education
+    ● Back-End specialization                                     - Oracle Next Education
     (Java, MySQL, Spring)  
