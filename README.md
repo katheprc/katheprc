@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aires, Argentina.
+My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aires, Argentina :argentina:
 
 
-😍 Preferred languages: Java and Python.
+:heart_eyes_cat: ***Preferred languages:*** 
+
+    ● Java    ● Python    ● HTML    ● CSS
 
 
-😋 Currently learning:
+:writing_hand: ***Currently learning:***
 
     ● Full-Stack development                                      - Egg Cooperation
     (Java, MySQL, HTML, CSS, Spring, JavaScript, React)          
@@ -17,7 +19,7 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
     ● Back-End specialization                                     - Oracle Next Education (G4)
     (Java, MySQL, Spring)  
 
-✍ [Certifications](https://www.linkedin.com/in/valdezyael/details/certifications/): 
+:trophy: ***[Certifications](https://www.linkedin.com/in/valdezyael/details/certifications/):***
 
 
     ● EF SET English Certificate (C2 Proficient)           - EF SET       
