@@ -14,7 +14,7 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
     ● Java developer                                              - Universidad Nacional de Jujuy (Argentina Programa)
     (Java, MySQL, Spring)
     
-    ● Back-End specialization                                     - Oracle Next Education
+    ● Back-End specialization                                     - Oracle Next Education (G4)
     (Java, MySQL, Spring)  
 
 ✍ Certifications: 
@@ -28,7 +28,7 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
         
     ● Programming Concepts                                 - OpenBootcamp
     
-    ● Web Development I                                    - Google Activate
+    ● Web Development I                                    - Google Actívate
     
     ● Python for Beginners                                 - SoloLearn
     
