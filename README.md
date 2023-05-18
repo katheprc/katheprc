@@ -4,12 +4,7 @@
 My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aires, Argentina.
 
 
-:heart_eyes_cat: ***Preferred languages:*** 
-
-    ● Java               
-    
-    ● Python
-
+:heart_eyes_cat: ***Preferred languages:*** Java and Python.
 
 :writing_hand: ***Currently learning:***
 
