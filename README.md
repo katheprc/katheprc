@@ -17,7 +17,7 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
     ● Back-End specialization                                     - Oracle Next Education (G4)
     (Java, MySQL, Spring)  
 
-✍ Certifications: 
+✍ [Certifications](https://www.linkedin.com/in/valdezyael/details/certifications/): 
 
 
     ● EF SET English Certificate (C2 Proficient)           - EF SET       
