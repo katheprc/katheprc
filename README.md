@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**katheprc/katheprc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yael Lilian Valdez, programming student based in Buenos Aires, Argentina.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😍 Preferred languages: Java and Python.
+
+
+😋 Currently learning:
+
+    ● Full-Stack development                                         - Egg Cooperation
+    (Java, MySQL, HTML, CSS, Spring, JavaScript, React)          
+    
+    ● Java developer                                                 - Universidad Nacional de Jujuy (Argentina Programa)
+    (Java, MySQL, Spring)
+    
+    ● Back-End specialization                                        - Oracle Next Education
+    (Java, MySQL, Spring)  
