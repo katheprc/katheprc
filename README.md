@@ -17,7 +17,7 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
     ● Back-End specialization                                     - Oracle Next Education
     (Java, MySQL, Spring)  
 
-Certifications: 
+✍ Certifications: 
 
 
     ● EF SET English Certificate (C2 Proficient)           - EF SET       
@@ -30,7 +30,7 @@ Certifications:
     
     ● Web Development I                                    - Google Activate
     
-    ● Python for Beginners                                 - Programming Hub
+    ● Python for Beginners                                 - SoloLearn
     
     ● Python 2                                             - Programming Hub
     
