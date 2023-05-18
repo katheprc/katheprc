@@ -5,7 +5,7 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
 
 :heart_eyes_cat: ***Preferred languages:*** 
 
-    ● Java            ● Python            ● HTML            ● CSS
+    ● Java:coffee:            ● Python:snake:            ● HTML:label:            ● CSS:diamond_shape_with_a_dot_inside:
 
 
 :writing_hand: ***Currently learning:***
