@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yael Lilian Valdez, programming student based in Buenos Aires, Argentina.
+My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aires, Argentina.
 
 
 😍 Preferred languages: Java and Python.
