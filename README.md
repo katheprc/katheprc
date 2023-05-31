@@ -7,11 +7,11 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
 
 :writing_hand: ***Currently learning:***
 
-| Certification                                    |                                             Institution |
-| :----------------------------------------------- | ------------------------------------------------------: |
-| Full-Stack development                           |                                         Egg Cooperation |
-| Module 2 & 3 (Java developer)                    |      Universidad Nacional de Jujuy (Argentina Programa) |
-| Back-End specialization                          |                              Oracle Next Education (G4) |
+| Certification                                    |                                             Institution | Progress                          |
+| :----------------------------------------------- | ------------------------------------------------------: | :-------------------------------: |
+| Full-Stack development                           |                                         Egg Cooperation | ! [](https://geps.dev/progress/21?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
+| Module 2 & 3 (Java developer)                    |      Universidad Nacional de Jujuy (Argentina Programa) | ! [](https://geps.dev/progress/17?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
+| Back-End specialization                          |                              Oracle Next Education (G4) | ! [](https://geps.dev/progress/95?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
 
 
 :trophy: ***[Certifications](https://www.linkedin.com/in/valdezyael/details/certifications/):***
