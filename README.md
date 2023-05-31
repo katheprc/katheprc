@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-- - -
-
 My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aires, Argentina.
 
 - - -
@@ -12,6 +9,7 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
 
 :writing_hand: ***Currently learning:***
 
+| Certification                 |                                        Institution |
 | :---------------------------- | -------------------------------------------------: |
 | Full-Stack development        |                                    Egg Cooperation |
 | Module 2 & 3 (Java developer) | Universidad Nacional de Jujuy (Argentina Programa) |
