@@ -3,19 +3,20 @@
 
 My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aires, Argentina.
 
+- - -
 
 :heart_eyes_cat: ***Preferred languages:*** Java and Python.
 
+- - -
+
 :writing_hand: ***Currently learning:***
 
-    ● Full-Stack development                                      - Egg Cooperation
-    (Java, MySQL, HTML, CSS, Spring, JavaScript, React)          
-    
-    ● Module 2 & 3 (Java developer)                               - Universidad Nacional de Jujuy (Argentina Programa)
-    (Java, MySQL, Spring)
-    
-    ● Back-End specialization                                     - Oracle Next Education (G4)
-    (Java, MySQL, Spring)  
+| Full-Stack development        |                                    Egg Cooperation |
+| :---------------------------- | -------------------------------------------------: |
+| Module 2 & 3 (Java developer) | Universidad Nacional de Jujuy (Argentina Programa) |
+| Back-End specialization       |                         Oracle Next Education (G4) |
+
+- - -
 
 :trophy: ***[Certifications](https://www.linkedin.com/in/valdezyael/details/certifications/):***
 
