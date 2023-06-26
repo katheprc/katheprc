@@ -29,3 +29,6 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
 | IPv4 & Networking                                |                                         Programming Hub |
 | Module 1 (Python)                                | Universidad Nacional de San Martin (Argentina Programa) |
 | Back-End specialization                          |                              Oracle Next Education (G4) |
+
+
+![](https://komarev.com/ghpvc/?username=katheprc&color=blueviolet&style=for-the-badge)
