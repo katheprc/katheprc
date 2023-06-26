@@ -31,4 +31,4 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
 | Back-End specialization                          |                              Oracle Next Education (G4) |
 
 
-![](https://komarev.com/ghpvc/?username=katheprc&color=blueviolet&style=for-the-badge&label=JUST+A+COUNTER) ### :eyes: 
+![](https://komarev.com/ghpvc/?username=katheprc&color=blueviolet&style=for-the-badge&label=¬u¬) 
