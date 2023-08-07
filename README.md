@@ -14,6 +14,7 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
 | Testing & QA                                     |                                            CodoACodo4.0 | ![](https://geps.dev/progress/10?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
 
 
+![KathePrc's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
 
 :trophy: ***[Certifications](https://www.linkedin.com/in/valdezyael/details/certifications/):***
 
@@ -31,5 +32,3 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
 | Module 1 (Python)                                | Universidad Nacional de San Martin (Argentina Programa) |
 | Back-End specialization                          |                              Oracle Next Education (G4) |
 
-
-![](https://komarev.com/ghpvc/?username=katheprc&color=blueviolet&style=for-the-badge&label=¬u¬) 
