@@ -21,13 +21,7 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
 | :----------------------------------------------- | ------------------------------------------------------: |
 | EF SET English Certificate (C2 Proficient)       |                                                  EF SET |      
 | Algorithmic logic, mathematical logical thinking |                                         Egg Cooperation |                                         
-| Fundamentals of Programming                      |                 Fundación Telefónica Movistar Argentina |
 | Programming Concepts                             |                                            OpenBootcamp |
-| Web Development I                                |                                         Google Actívate |
-| Python for Beginners                             |                                               SoloLearn |
-| Python 2                                         |                                         Programming Hub |
-| Python 3                                         |                                         Programming Hub |
-| IPv4 & Networking                                |                                         Programming Hub |
 | Module 1 (Python)                                | Universidad Nacional de San Martin (Argentina Programa) |
 | Back-End specialization                          |                              Oracle Next Education (G4) |
 
