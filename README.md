@@ -14,7 +14,6 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
 | Testing & QA                                     |                                            CodoACodo4.0 | ![](https://geps.dev/progress/10?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
 
 
-![KathePrc's GitHub stats](https://github-readme-stats.vercel.app/api?username=katheprc&show_icons=true&theme=cobalt)
 
 :trophy: ***[Certifications](https://www.linkedin.com/in/valdezyael/details/certifications/):***
 
