@@ -11,6 +11,7 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
 | :----------------------------------------------- | ------------------------------------------------------: | :-------------------------------: |
 | Full-Stack development                           |                                         Egg Cooperation | ![](https://geps.dev/progress/50?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
 | Module 2 & 3 (Java developer)                    |      Universidad Nacional de Jujuy (Argentina Programa) | ![](https://geps.dev/progress/50?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
+| Testing & QA                                     |                                            CodoACodo4.0 | ![](https://geps.dev/progress/10?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
 
 
 
