@@ -15,7 +15,7 @@ My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aire
 
 
 
-:trophy: ***[Certifications](https://www.linkedin.com/in/valdezyael/details/certifications/):***
+:trophy: ***[Certifications](https://www.linkedin.com/in/valdezyael/):***
 
 | Certification                                    |                                             Institution |
 | :----------------------------------------------- | ------------------------------------------------------: |
