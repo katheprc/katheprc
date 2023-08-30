@@ -2,7 +2,7 @@
 My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aires, Argentina.
 
 
-:heart_eyes_cat: ***Preferred languages:*** Java, SQL, HTML&CSS (yeah, I know they are not languages, leave me alone :(  ).
+:heart_eyes_cat: ***Preferred languages:*** Java, SQL, HTML&CSS (yeah, I know they are not languages, leave me alone :(    ).
 
 
 :writing_hand: ***Currently learning:***
