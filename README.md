@@ -1,5 +1,5 @@
 ![banner](https://github.com/katheprc/katheprc/assets/111620337/05c1b704-3d17-44d0-b449-0e056b637455)
-#### My name is Yael Lilian Valdez and i'm an advanced <a href="https://github.com/katheprc/EGG">Web Full-Stack Development</a> student based in Buenos Aires, Argentina :argentina:.
+### My name is Yael Lilian Valdez and i'm an advanced <a href="https://github.com/katheprc/EGG">Web Full-Stack Development</a> student based in Buenos Aires, Argentina :argentina:.
 
 #### ![code](https://github.com/katheprc/katheprc/assets/111620337/a0971ae6-2e94-4175-9855-7be7bc8940d6) ***Languages***<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
