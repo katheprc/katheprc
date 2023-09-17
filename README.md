@@ -1,3 +1,5 @@
+![banner](https://github.com/katheprc/katheprc/assets/111620337/05c1b704-3d17-44d0-b449-0e056b637455)
+
 ### Hi there 👋
 My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aires, Argentina.
 
