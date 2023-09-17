@@ -1,10 +1,9 @@
 ![banner](https://github.com/katheprc/katheprc/assets/111620337/05c1b704-3d17-44d0-b449-0e056b637455)
-### My name is Yael Lilian Valdez and i'm a programming student based in Buenos Aires, Argentina.
+#### My name is Yael Lilian Valdez and i'm an advanced <a href="https://github.com/katheprc/EGG">Web Full-Stack Development</a> student based in Buenos Aires, Argentina :argentina:.
 
 #### ![code](https://github.com/katheprc/katheprc/assets/111620337/a0971ae6-2e94-4175-9855-7be7bc8940d6) ***Languages***<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
 
 #### ![database](https://github.com/katheprc/katheprc/assets/111620337/3f99884e-09ec-4281-a9de-5136afbdeee9) ***Databases*** <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,7 +26,7 @@
 
 #### :trophy: ***[Certifications](https://www.linkedin.com/in/valdezyael/)***
 
-#### :iphone: ***Social:*** <br>
+#### :speech_balloon: ***Social:*** <br>
 <a href="https://www.linkedin.com/in/valdezyael/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://discord.com/users/katheprc"> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
 <a href="mailto:yaelvaldez@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
