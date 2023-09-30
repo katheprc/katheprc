@@ -27,7 +27,7 @@
 | Full-Stack development                           |                                         Egg Cooperation | ![](https://geps.dev/progress/70?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
 | Module 2 (Java programmer)                    |      Universidad Nacional de Jujuy (Argentina Programa) | ![](https://geps.dev/progress/100?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
 | Module 3 (Java developer)                    |      Universidad Nacional de Jujuy (Argentina Programa) | ![](https://geps.dev/progress/10?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
-| Testing & QA                                     |                                            CodoACodo4.0 | ![](https://geps.dev/progress/20?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
+
 
 #### :trophy: ***[Certifications](https://www.linkedin.com/in/valdezyael/)***
 
