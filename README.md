@@ -1,5 +1,5 @@
 ![banner](https://github.com/katheprc/katheprc/assets/111620337/05c1b704-3d17-44d0-b449-0e056b637455)
-### My name is Yael Lilian Valdez and i'm an advanced <a href="https://github.com/katheprc/EGG">Web Full-Stack Development</a> student based in Buenos Aires, Argentina :argentina:.
+### Hello world! My name is Yael Lilian Valdez and I'm Web Full-Stack Developer based in Buenos Aires, Argentina :argentina:.
 
 #### ![code](https://github.com/katheprc/katheprc/assets/111620337/a0971ae6-2e94-4175-9855-7be7bc8940d6)  ***Languages***<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
@@ -24,9 +24,9 @@
 
 | Certification                                    |                                             Institution | Progress                          |
 | :----------------------------------------------- | ------------------------------------------------------: | :-------------------------------: |
-| Full-Stack development                           |                                         Egg Cooperation | ![](https://geps.dev/progress/90?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
-| Module 2 (Java programmer)                    |      Universidad Nacional de Jujuy (Argentina Programa) | ![](https://geps.dev/progress/100?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
-| Module 3 (Java developer)                    |      Universidad Nacional de Jujuy (Argentina Programa) | ![](https://geps.dev/progress/10?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
+| Full-Stack development                           |                                         Egg Cooperation | ![](https://geps.dev/progress/100?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
+| Module 2 (Java programmer) & 3 (Java developer)                    |      Universidad Nacional de Jujuy (Argentina Programa) | ![](https://geps.dev/progress/100?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
+|  Higher Technician in Software Development                    |      Instituto Superior de Formación Técnica N°29 | ![](https://geps.dev/progress/10?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
 
 
 #### :trophy: ***[Certifications](https://www.linkedin.com/in/valdezyael/)***
@@ -37,4 +37,3 @@
 <a href="https://www.upwork.com/freelancers/~01b3f350739c6efde3"> ![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) </a>
 <a href="https://discord.com/users/katheprc"> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
 <a href="https://steamcommunity.com/id/KathePrc">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) </a>
-<a href="https://openmainframeproject.slack.com/team/U05NXDUTEQH"> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</a>
