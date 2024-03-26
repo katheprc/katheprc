@@ -1,6 +1,10 @@
 ![banner](https://github.com/katheprc/katheprc/assets/111620337/05c1b704-3d17-44d0-b449-0e056b637455)
 ### Hello world! My name is Yael Lilian Valdez and I'm Web Full-Stack Developer based in Buenos Aires, Argentina :argentina:.
 
+#### :trophy: ***Certifications:*** <br>
+<a href="https://www.linkedin.com/in/valdezyael/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
+
 #### ![code](https://github.com/katheprc/katheprc/assets/111620337/a0971ae6-2e94-4175-9855-7be7bc8940d6)  ***Languages***<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
@@ -17,22 +21,3 @@
 #### :desktop_computer: ***Other*** <br>
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) <br>
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
-
-
-#### :writing_hand: ***Currently learning:***
-
-| Certification                                    |                                             Institution | Progress                          |
-| :----------------------------------------------- | ------------------------------------------------------: | :-------------------------------: |
-| Full-Stack development                           |                                         Egg Cooperation | ![](https://geps.dev/progress/100?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
-| Module 2 (Java programmer) & 3 (Java developer)                    |      Universidad Nacional de Jujuy (Argentina Programa) | ![](https://geps.dev/progress/100?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
-|  Higher Technician in Software Development                    |      Instituto Superior de Formación Técnica N°29 | ![](https://geps.dev/progress/10?dangerColor=77DD77&warningColor=77DD77&successColor=77DD77) |
-
-
-#### :trophy: ***[Certifications](https://www.linkedin.com/in/valdezyael/)***
-
-#### :speech_balloon: ***Social:*** <br>
-<a href="mailto:yaelvaldez@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
-<a href="https://www.linkedin.com/in/valdezyael/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-<a href="https://www.upwork.com/freelancers/~01b3f350739c6efde3"> ![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) </a>
-<a href="https://discord.com/users/katheprc"> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
-<a href="https://steamcommunity.com/id/KathePrc">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) </a>
